@@ -23,7 +23,7 @@ const App =()=>{
       <Text style={{fontsize:70}}>Function component </Text>
       <Button title="Login" onPress={login}></Button> */}
        <Home data={Data} /> 
-       <Login /> 
+       <Login/> 
        <Style></Style> 
        <TextInputs />
       <Forms></Forms>
