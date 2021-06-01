@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, TextInput,Button,StyleSheet} from 'react-native'
+import {View, TextInput,Button,StyleSheet} from 'react-native';
 
 class Forms extends React.Component {
     constructor() {
